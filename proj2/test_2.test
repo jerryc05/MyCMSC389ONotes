@@ -1,0 +1,3 @@
+#!/bin/bash
+python36 PublicTests.py PublicTests.test2
+# empty line
